@@ -57,7 +57,7 @@ const BRAND: Brand = {
 
 const CONTACT: Contact = {
     email: "michaeldruggan@gmail.com", // TODO: set your email
-    calendly: "https://calendly.com/michaeldruggan/intro-call", // or "#contact" to use the on-page form
+    calendly: "https://calendly.com/michaeldruggan/30min", // or "#contact" to use the on-page form
 };
 
 const SOCIAL: SocialLinks = {
