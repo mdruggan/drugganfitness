@@ -102,7 +102,7 @@ const TIERS: Tier[] = [
         ctaHref: CONTACT.calendly,
     },
     {
-        name: "Executive Plan (In person; only 1 spot available)",
+        name: "Executive Plan (Currently filled contact to join the waitlist)",
         monthly: 4999,
         priceSuffix: " + room/board",
         highlight: false,
